@@ -1,5 +1,5 @@
 # ALPHACamp_finalAssessment_Q2
-![Alt text](screenshots/screenshot.png?raw=true "screenshot")
+![Alt text](screenshot.png?raw=true "screenshot")
 
 There are 2 controller in xcode, left is traditional auto-layout, and right is stackview.  
 
