@@ -1,7 +1,7 @@
 # ALPHACamp_finalAssessment_Q2
 ![Alt text](screenshot.png?raw=true "screenshot")
 
-There are 2 controller in xcode, left is traditional auto-layout, and right is stackview.  
+There are 2 controller in xcode, left is traditional auto-layout, and right is stackview. They are both suitable for different size devices on two orientation.
 
 For traditional auto-layout, I set the left orange block height and the right green block referencing the orange one for height, and also center vertically to orange.
 At this stage, we already confirmed the height of two block, also they share the same y-axis, so, just set orange align bottom of space 12, then Y is confirmed for both block views.
